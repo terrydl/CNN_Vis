@@ -2,7 +2,7 @@
 Deep Visualization Toolbox  Github: https://github.com/yosinski/deep-visualization-toolbox  
 Understanding Image Representations by Inverting Them  Paper: https://arxiv.org/pdf/1412.0035v1.pdf  
 Learning FRAME Models Using CNN filters  Project page:  http://www.stat.ucla.edu/~yang.lu/project/deepFrame/main.html  
-Convergent Learning: Do different neural networks learn the same representations?  Github: https://github.com/yixuanli/convergent_learning
+Convergent Learning: Do different neural networks learn the same representations?  Github: https://github.com/yixuanli/convergent_learning 
 Torch-visbox  https://github.com/Aysegul/torch-visbox  
 Plot caffe models online  http://ethereon.github.io/netscope/#/editor  
 Grad-CAM: Gradient-weighted Class Activation Mapping  https://github.com/ramprs/grad-cam/  
